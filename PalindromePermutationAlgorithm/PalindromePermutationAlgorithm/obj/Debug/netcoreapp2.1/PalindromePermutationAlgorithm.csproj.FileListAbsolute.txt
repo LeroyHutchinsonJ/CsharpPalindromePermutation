@@ -1,0 +1,11 @@
+C:\Users\Gemgod\Desktop\CSharp Projects\PalindromePermutationAlgorithm\PalindromePermutationAlgorithm\bin\Debug\netcoreapp2.1\PalindromePermutationAlgorithm.deps.json
+C:\Users\Gemgod\Desktop\CSharp Projects\PalindromePermutationAlgorithm\PalindromePermutationAlgorithm\bin\Debug\netcoreapp2.1\PalindromePermutationAlgorithm.runtimeconfig.json
+C:\Users\Gemgod\Desktop\CSharp Projects\PalindromePermutationAlgorithm\PalindromePermutationAlgorithm\bin\Debug\netcoreapp2.1\PalindromePermutationAlgorithm.runtimeconfig.dev.json
+C:\Users\Gemgod\Desktop\CSharp Projects\PalindromePermutationAlgorithm\PalindromePermutationAlgorithm\bin\Debug\netcoreapp2.1\PalindromePermutationAlgorithm.dll
+C:\Users\Gemgod\Desktop\CSharp Projects\PalindromePermutationAlgorithm\PalindromePermutationAlgorithm\bin\Debug\netcoreapp2.1\PalindromePermutationAlgorithm.pdb
+C:\Users\Gemgod\Desktop\CSharp Projects\PalindromePermutationAlgorithm\PalindromePermutationAlgorithm\obj\Debug\netcoreapp2.1\PalindromePermutationAlgorithm.csprojAssemblyReference.cache
+C:\Users\Gemgod\Desktop\CSharp Projects\PalindromePermutationAlgorithm\PalindromePermutationAlgorithm\obj\Debug\netcoreapp2.1\PalindromePermutationAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Gemgod\Desktop\CSharp Projects\PalindromePermutationAlgorithm\PalindromePermutationAlgorithm\obj\Debug\netcoreapp2.1\PalindromePermutationAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Gemgod\Desktop\CSharp Projects\PalindromePermutationAlgorithm\PalindromePermutationAlgorithm\obj\Debug\netcoreapp2.1\PalindromePermutationAlgorithm.AssemblyInfo.cs
+C:\Users\Gemgod\Desktop\CSharp Projects\PalindromePermutationAlgorithm\PalindromePermutationAlgorithm\obj\Debug\netcoreapp2.1\PalindromePermutationAlgorithm.dll
+C:\Users\Gemgod\Desktop\CSharp Projects\PalindromePermutationAlgorithm\PalindromePermutationAlgorithm\obj\Debug\netcoreapp2.1\PalindromePermutationAlgorithm.pdb
